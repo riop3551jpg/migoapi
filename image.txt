@@ -1,0 +1,1 @@
+[idtask:2831, GPT-Image-2, 1K, 9x16, count 1], prompt : buatkan kepala bebek badan singa
