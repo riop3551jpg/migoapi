@@ -1,5 +1,5 @@
 idtask: 2831
 status: done
-prompt: buatkan kepala bebek badan singa
+prompt: buatkan beruang kepala bebek
 images:
-- https://sg.migoo.ai/beeai/api/v1/media/signed/budee/2026/08/28/bafc00c5.png?expires=1787884349&sig=352fb99751e2e869ad4676b9d5d1cbe0aa81a90f98c7d619de095655063d139b
+- https://us.migoo.ai/beeai/api/v1/media/signed/budee/2026/08/28/f1056ff7.png?expires=1787919925&sig=992067575e851ac6babb754e6694964ebfef2d08c7fc6c284572dcecf79bfee0
