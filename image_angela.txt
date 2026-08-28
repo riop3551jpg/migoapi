@@ -1,1 +1,1 @@
-gambar bebek jadi kodok, count 1, 9x16
+[idtask:28331, GPT-Image-2, 1K, 9x16, count 1], prompt : buatkan tikus kepala singa
