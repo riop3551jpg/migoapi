@@ -1,0 +1,3 @@
+idtask: 28331
+status: error
+ERROR: Gagal generate gambar — fitur image generation tidak tersedia dalam konteks auto-task saat ini. Silakan jalankan prompt secara manual melalui chat.
